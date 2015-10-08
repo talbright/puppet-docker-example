@@ -1,0 +1,9 @@
+{
+  "Gemfile": "cbfa4add8206ad8702765a8ae3323ca2",
+  "LICENSE": "e7fff5d8ca4f44f1279782ead2da5925",
+  "README.md": "1da73d1c6410562c30ef8ff2a7057045",
+  "Rakefile": "0254db5d3fc38c67a2c160d7296a24f8",
+  "lib/hiera/backend/consul_backend.rb": "abadf847c4e147019ed8b686a83e2e77",
+  "lib/puppet/parser/functions/consul_info.rb": "c553e1dee5f90ccd1cba2a4eb7296107",
+  "metadata.json": "acbcf59501b004cb01cdb4a64bf76272"
+}

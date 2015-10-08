@@ -26,3 +26,7 @@ mod 'saz/dnsmasq'
 mod 'jfryman/nginx'
 
 mod 'lynxman/hiera_consul'
+
+mod 'nanliu/staging'
+
+mod 'puppetlabs/concat'
