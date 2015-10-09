@@ -24,6 +24,8 @@ module VagrantInstance
     instance.vm.hostname = name
     instance.vm.network "private_network", :ip => ip
     instance.vm.provision :hosts
+    instance.vm.network :forwarded_port, guest: 8500, host: 8501
+    instance.vm.network :forwarded_port, guest: 80,  host: 8080
   end
 end
 
